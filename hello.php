@@ -1,7 +1,7 @@
 <?php
 
 
-$tekst = "hello world " . "<br>";
+$tekst = "Dit is een stuk tekst " . "<br>";
 
 
 echo $tekst;
