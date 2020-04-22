@@ -1,15 +1,10 @@
 <?php
 
 
-$tekst = "Dit is een stuk tekst " . "<br>";
+$tekst = "Dit is een stuk tekst <br>";
 
 
-echo $tekst;
-echo $tekst;
-echo $tekst;
-echo $tekst;
-echo $tekst;
-
+echo str_repeat($tekst, 5);
 
 
 
